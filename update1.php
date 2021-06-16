@@ -71,7 +71,7 @@ if($data)
 {
 echo "<script>alert('Updated Successfully!')</script>";
 ?>
-<meta http-equiv="refresh" content="0; url=https://atnshopapp1.herokuapp.com/login1.php" />
+<meta http-equiv="refresh" content="0; url=https://atnshop-khoi.herokuapp.com/login1.php" />
 <?php
 }
 else
