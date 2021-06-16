@@ -75,7 +75,7 @@ input[type=submit]{
   cursor:pointer;
 }
 </style>	  
- <form action="https://atnshopapp1.herokuapp.com/add2.php">
+ <form action="https://atnshop-khoi.herokuapp.com/add2.php">
  <input type="submit" value="Add" />
 </form>
 </body>
