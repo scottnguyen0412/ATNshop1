@@ -4,7 +4,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
  	<a href="index.php" class="btn btn-info btn-lg"><span class="glyphicon glyphicon-log-out"></span> Log out</a> 
  </ul>
-	<meta http-equiv="refresh" content="0; url=https://atnshop-khoi.herokuapp.com/admin.php" />
+	<meta http-equiv="refresh" content="15; url=https://atnshop-khoi.herokuapp.com/admin.php" />
 
  </head>
  <body>
