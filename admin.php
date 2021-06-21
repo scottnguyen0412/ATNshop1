@@ -113,6 +113,8 @@ echo "
 </tr>
 ";
 }
+
+<meta http-equiv="refresh" content="0; url=https://atnshop-khoi.herokuapp.com/admin.php" />
 }
 
 ?>
